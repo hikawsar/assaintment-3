@@ -34,5 +34,4 @@ function budgetCalculator(taka){
     return taka;
 }
 
-var count = budgetCalculator(588);
-console.log(count);
+// ami js er kicui buji nai tai tik moto korte pari nai , try kortaci but bujtaci na , hopefully aktu somoy lagve amar //
